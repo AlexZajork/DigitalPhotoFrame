@@ -1,5 +1,5 @@
 # Digital Photo Frame
-A simple web application for use as a digital photo frame. Optionally displays current date, time, as well as the local weather using the OpenWeather API. 
+A simple .NET CORE web application for use as a digital photo frame. Optionally displays current date, time, as well as the local weather using the OpenWeather API. 
 
 ## Instructions
 Place photos in the wwwroot/photos directory. 
